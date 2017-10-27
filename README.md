@@ -1,5 +1,5 @@
-# ionic_fileUpload
-cordova file upload
+# ionic_photoUpload
+cordova photo upload
 
 //add cordova plugin file
 //$ ionic cordova plugin add cordova-plugin-file-transfer
